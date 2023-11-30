@@ -34,3 +34,11 @@ We welcome contributions to My Awesome Project! Please read our [Contributing Gu
 ## License
 
 My Awesome Project is licensed under the [MIT License](LICENSE).
+
+## Signed commits
+
+Signed commits are required
+
+## GPG
+
+This section about GPG was commited and signed with my GPG key
